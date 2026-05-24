@@ -153,7 +153,7 @@ El microservicio incorpora un sembrador inteligente `DataInitializer.java` que s
     *   **Rol:** Administrador del Sistema
 
 ### Ejecutar el Microservicio:
-Abre una terminal en la raíz de `ms-usuarios` (`C:\Users\renat\OneDrive\Documentos\Duoc\Fullstack I\Bookpoint\ms-usuarios`) y ejecuta:
+Abre una terminal en la raíz de `ms-usuarios`  y ejecuta:
 
 ```bash
 mvn clean spring-boot:run
