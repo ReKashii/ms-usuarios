@@ -1,4 +1,4 @@
-# Microservicio ms-usuarios - BookPoint Chile 👥🔐
+# Microservicio ms-usuarios - BookPoint Chile
 > **Área:** Autenticación, Gestión de Identidades (IAM) y Roles  
 > **Arquitectura:** Microservicios con Spring Boot (Java 17) bajo Patrón CSR  
 > **Puerto por Defecto:** `8083`
